@@ -1,0 +1,26 @@
+.topbar {
+  display: flex;
+  flex-direction: row;
+  background: rgb(36, 40, 45);
+  height: 60px;
+}
+.logo {
+  width: 50px;
+  margin-right: 5px;
+}
+.button {
+  background-color: transparent;
+  background-repeat: no repeat;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 12px;
+}
+
+.searchbar {
+  width: 250px;
+  height: 25px;
+  margin-top: 17px;
+  background: rgb(63, 67, 71);
+  border: none;
+}

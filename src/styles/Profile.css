@@ -1,0 +1,20 @@
+.picture {
+  width: 150px;
+  height: 150px;
+}
+.profile {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  width: 160px;
+  border-left: 40px;
+}
+
+.profileList {
+  list-style-type: none;
+}
+.editButton {
+  width: 150px;
+  font-size: 14px;
+  background: rgb(244, 247, 249);
+}
